@@ -10,7 +10,7 @@ gem 'pg'
 gem 'json'
 
 group :development do
-	gem 'rpsec-rails', '2.0.1'
+	gem 'rspec-rails', '2.0.1'
 end
 
 group :test do
